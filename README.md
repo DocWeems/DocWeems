@@ -8,4 +8,4 @@
 - 🤔 I’m looking for help with how to best advertise library resources to ENGR folks
 - 💬 Ask me about accessing technical standards
 
-![condescending wonka][https://tenor.com/b1l97.gif]
+![condescending wonka](https://tenor.com/b1l97.gif)
